@@ -9,9 +9,10 @@
 
 ### Connect with me:
 
+
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/marginalyas)
-[![website](./img/twitter-dark.svg)](https://twitter.com/marginalyas)
+[![website](./img/twitter-light.svg)](https://twitter.com/marginalyas#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/marginalyas#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yasingul/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yasingul/)
@@ -24,9 +25,6 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-
-<br />
-<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
