@@ -23,6 +23,8 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>]
 [<img align="left" alt="CSharp" width="52px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" style="padding-right:20px;"/>]
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
