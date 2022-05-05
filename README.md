@@ -10,14 +10,11 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/marginalyas#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/marginalyas#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/marginalyas)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yasingul/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yasingul/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/yasn.gl/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/yasn.gl/)
 
 ### Languages and Tools:
 
