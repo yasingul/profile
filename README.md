@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning C# 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about JS, Java, C# and Unity
+- 🥅 2023 Goals: Learn more about JS, Java, C# and Unity
 - ⚡ Fun fact: I love to draw and you can visit my Instagram profile
 
 ### Connect with me:
